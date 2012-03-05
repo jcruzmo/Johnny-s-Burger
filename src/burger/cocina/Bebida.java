@@ -16,7 +16,7 @@ public class Bebida extends Producto {
     
     @Override
     public String toString() {
-        return "Bebida " + nombre + ": " + descripcion;
+        return "Bebida " + nombre + ": hjjjhgjghjghjghjghjghj " + descripcion;
     }
     
 }
